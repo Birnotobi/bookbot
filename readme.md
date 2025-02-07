@@ -1,3 +1,1 @@
-#contents
-
-blahblah
+BookBot is my first project!
